@@ -23,7 +23,8 @@ Responsive design for different screen sizes
 
 **---------------How to Use-------------------------------------------------------------**
 Running the App
-Open the index.html file in a web browser.
+Open the index.html file in a web browser.![Screenshot 2024-06-29 122359](https://github.com/botuserout/Basic-Calculator/assets/160648123/91f24e67-82a6-46fc-bac9-0c960b5a009c)
+
 The calculator interface will be displayed, with an input box at the top and buttons below.
 Click on the buttons to enter numbers and operators.
 Use the = button to calculate the result.

@@ -1,2 +1,2 @@
 # Basic-Calculator
-Built b using HTML, CSS &amp; Javascript
+Built by using HTML, CSS &amp; Javascript

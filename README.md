@@ -18,3 +18,14 @@ Basic arithmetic operations: addition, subtraction, multiplication, and division
 Additional functions: clear, delete, percentage
 Input box to display calculator output
 Responsive design for different screen sizes
+
+
+
+**---------------How to Use-------------------------------------------------------------**
+Running the App
+Open the index.html file in a web browser.
+The calculator interface will be displayed, with an input box at the top and buttons below.
+Click on the buttons to enter numbers and operators.
+Use the = button to calculate the result.
+Use the AC button to clear the input box.
+Use the DEL button to delete the last entered character.
